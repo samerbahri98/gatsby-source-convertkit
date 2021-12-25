@@ -1,0 +1,24 @@
+{
+  "name": "gatsby-source-convertkit",
+  "version": "1.0.0",
+  "description": "a better way to integrate convertkit to gatsby than to manually send the api requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samerbahri98/gatsby-source-convertkit.git"
+  },
+  "keywords": [
+    "gatsby",
+    "gatsbyjs",
+    "convertkit"
+  ],
+  "author": "samer bahri <samer.bahri@ieee.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samerbahri98/gatsby-source-convertkit/issues"
+  },
+  "homepage": "https://github.com/samerbahri98/gatsby-source-convertkit#readme"
+}
